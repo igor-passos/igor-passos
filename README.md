@@ -33,3 +33,19 @@ My goal is to develop a long-term career in Cloud and IT infrastructure, contrib
 
 I previously studied Web Development and built foundational front-end projects.  
 This background supports my understanding of how applications interact with cloud infrastructure.
+
+---
+
+## Professional Background
+
+- Former Radar Operator – Brazilian Navy  
+  Experience in high-responsibility, protocol-driven environments.
+
+- Operational & Customer-Facing Roles  
+  Experience working with electronic systems and structured operational procedures.
+
+---
+
+## Career Objective
+
+To secure an entry-level opportunity in Cloud, IT Support, or Infrastructure roles and grow within the Canadian technology ecosystem.
